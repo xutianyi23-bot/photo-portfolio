@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+
+.tmp-index-backup.html
+scripts/
+相册命名和简介填写单.md

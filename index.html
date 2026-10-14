@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0c0c0d" />
+    <meta name="description" content="角色肖像摄影作品集，记录光线、情绪与角色的瞬间。" />
+    <title>摄影作品集 · Selected Works</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="wordmark" href="#top" aria-label="回到首页">PHOTO<span>／</span>DIARY</a>
+      <nav aria-label="主导航">
+        <a href="#works">作品 <span>WORKS</span></a>
+        <a href="#about">关于 <span>ABOUT</span></a>
+      </nav>
+      <a class="top-index" href="#works">PORTRAIT & COSPLAY <span>↘</span></a>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="live-dot"></span> PORTRAIT PHOTOGRAPHY · SELECTED WORKS</p>
+          <h1 id="hero-title">把故事，<br /><em>留在光里。</em></h1>
+          <p class="hero-note">角色肖像 · 同人摄影 · 光影记录</p>
+          <a class="round-link" href="#works" aria-label="浏览作品">↓</a>
+        </div>
+        <div class="hero-gallery" id="hero-gallery" aria-label="精选摄影作品"></div>
+        <div class="hero-caption"><span>SELECTED PHOTOGRAPHS</span><span>LIGHT · MOOD · CHARACTER</span></div>
+      </section>
+
+      <section class="author-section" id="about">
+        <div class="author-label">
+          <p class="eyebrow">ABOUT THE PHOTOGRAPHER</p>
+          <h2>关于作者</h2>
+        </div>
+        <div class="author-copy">
+          <h3 id="author-name">作者姓名待填写</h3>
+          <p id="author-bio">在 site-content.json 中填写你的作者简介。</p>
+        </div>
+        <span class="author-mark">影像<br />档案 <b>↘</b></span>
+      </section>
+
+      <section class="works-section" id="works">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">THE PORTFOLIO · PHOTO ALBUMS</p>
+            <h2>相册<span>集</span></h2>
+          </div>
+          <p class="works-count"><span id="album-count">—</span><br />ALBUMS</p>
+        </div>
+        <div class="album-grid" id="album-grid"></div>
+
+        <div class="gallery-heading" id="gallery-heading">
+          <p class="eyebrow">SELECTED ALBUM</p>
+          <h3 id="selected-album-title">全部作品</h3>
+          <p id="selected-album-description">从相册目录选择一个图集，查看对应照片与简介。</p>
+        </div>
+        <div class="filter-wrap">
+          <div class="filters" id="filters" aria-label="按相册筛选"></div>
+        </div>
+        <p class="works-count gallery-count"><span id="works-count">—</span>　PHOTOGRAPHS</p>
+        <div class="gallery" id="gallery" aria-live="polite"></div>
+        <button class="load-more" id="load-more" type="button">浏览更多 <span>＋</span></button>
+      </section>
+
+      <footer class="footer">
+        <a class="wordmark" href="#top">PHOTO<span>／</span>DIARY</a>
+        <p>以镜头记录，以热爱收藏。</p>
+        <span class="footer-code">© <span id="year"></span> · PHOTO ARCHIVE</span>
+      </footer>
+    </main>
+
+    <dialog class="lightbox" id="lightbox" aria-label="照片浏览器">
+      <button class="lightbox-close" id="lightbox-close" aria-label="关闭">×</button>
+      <button class="lightbox-arrow prev" id="lightbox-prev" aria-label="上一张">←</button>
+      <figure>
+        <img id="lightbox-image" alt="" />
+        <figcaption id="lightbox-caption"></figcaption>
+      </figure>
+      <button class="lightbox-arrow next" id="lightbox-next" aria-label="下一张">→</button>
+      <span class="lightbox-counter" id="lightbox-counter"></span>
+    </dialog>
+      </body>
+</html>

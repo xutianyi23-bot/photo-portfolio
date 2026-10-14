@@ -1,0 +1,362 @@
+{
+  "author": {
+    "name": "Titanium麦辣鸡腿堡",
+    "bio": "与模特老婆椰子摄影的纪实",
+    "gearLabel": "主要使用器材为",
+    "gear": [
+      "EOS R5 Mark II",
+      "RF 28-70mm F2 L USM",
+      "Canon Speedlight EL-1"
+    ]
+  },
+  "heroPhotos": [
+    {
+      "albumId": "10-优菈-二修",
+      "alt": "优菈-5"
+    },
+    {
+      "albumId": "17-明日香_导出",
+      "alt": "IMG_4702"
+    },
+    {
+      "albumId": "19-甘雨原皮出片",
+      "alt": "0B4A0258"
+    }
+  ],
+  "albums": [
+    {
+      "id": "02-2024-06-10-刻晴旗袍",
+      "title": "刻晴旗袍",
+      "location": "河北省廊坊市水云间",
+      "gear": [
+        "EOS R6 Mark II",
+        "RF 28-70mm F2 L USM",
+        "NanLight 15C II"
+      ],
+      "coverIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "03-2024-06-26太阳-剪影",
+      "title": "太阳·剪影",
+      "location": "河北省廊坊市人民公园",
+      "gear": [
+        "EOS R6 Mark II",
+        "EF 800mm F5.6 L IS USM"
+      ],
+      "coverIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "04-2024-06-30-达达莉雅",
+      "title": "达达莉雅（性转公子）",
+      "location": "河北省廊坊市初心影棚",
+      "gear": [
+        "EOS R6 Mark II",
+        "RF 28-70mm F2 L USM",
+        "NanLight 15C II"
+      ],
+      "coverIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "20-看星星",
+      "title": "星空",
+      "location": "河北省廊坊市人民公园",
+      "gear": [
+        "EOS R6 Mark II",
+        "EF 11-24mm F4 L IS USM",
+        "INKEE GC60"
+      ],
+      "coverIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "09-721出图",
+      "title": "优菈·日出",
+      "location": "天津市东疆亲海公园",
+      "gear": [
+        "EOS R6 Mark II",
+        "RF 28-70mm F2 L USM",
+        "INKEE GC150"
+      ],
+      "coverIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "05-2025-01-26-超级宝珠雪景",
+      "title": "雪景·第一次看雪",
+      "location": "河北省廊坊市人民公园",
+      "gear": [
+        "EOS R6 Mark II",
+        "RF 28-70mm F2 L USM",
+        "Canon Speedlight EL-5"
+      ],
+      "coverIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "14-小樱_PixCake",
+      "title": "小樱",
+      "location": "广东省广州市华南植物园",
+      "gear": [
+        "EOS R5 Mark II",
+        "RF 24-105mm F2.8 L IS USM Z",
+        "INKEE GC150",
+        "INKEE GC60"
+      ],
+      "coverIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "01-2-6_PixCake",
+      "title": "冬日·安静的午后",
+      "location": "河北省廊坊市微光咖啡",
+      "gear": [
+        "EOS R5 Mark II",
+        "RF 28-70mm F2 L USM",
+        "NanLight 6C II"
+      ],
+      "coverIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "07-4-5_PixCake",
+      "title": "夜樱",
+      "location": "天津市运河樱花大道",
+      "gear": [
+        "EOS R5 Mark II",
+        "RF 24-105mm F2.8 L IS USM Z",
+        "RF 85mm F1.2 L USM",
+        "Canon Speedlight EL-5"
+      ],
+      "coverIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "06-2025-05-03超级宝珠琳妮特",
+      "title": "琳妮特·天使庭院",
+      "location": "河北省廊坊市分秒时间工作室",
+      "gear": [
+        "EOS R6 Mark II",
+        "RF 28-70mm F2 L USM",
+        "INKEE GC150"
+      ],
+      "coverIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "08-5-31_PixCake",
+      "title": "阮·梅",
+      "location": "河北省廊坊市只有红楼梦戏剧幻城",
+      "gear": [
+        "EOS R5 Mark II",
+        "RF 28-70mm F2 L USM",
+        "EF 15-35mm F2.8 L IS USM",
+        "Canon Speedlight EL-1"
+      ],
+      "coverIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "11-出片",
+      "title": "妮可",
+      "location": "广东省佛山市一番街及广州市天河智慧城棠下Park",
+      "gear": [
+        "EOS R5 Mark II",
+        "RF 28-70mm F2 L USM",
+        "Nanlight 6C II",
+        "GC150"
+      ],
+      "coverIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "21-超级宝珠_PixCake",
+      "title": "优菈JK",
+      "location": "广东省广州市云溪植物园",
+      "gear": [
+        "EOS R5 Mark II",
+        "RF 28-70mm F2 L USM",
+        "Speedlight EL-1"
+      ],
+      "coverIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "12-刻晴_PixCake",
+      "title": "刻晴JK白棚",
+      "location": "河北省廊坊市分秒时间工作室",
+      "gear": [
+        "EOS R5 Mark II",
+        "RF 28-70mm F2 L USM",
+        "Godox DP600 III"
+      ],
+      "coverIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "10-优菈-二修",
+      "title": "优菈·白棚",
+      "location": "河北省廊坊市分秒时间工作室",
+      "gear": [
+        "EOS R5 Mark II",
+        "RF 28-70mm F2 L USM",
+        "Godox DP600 III"
+      ],
+      "coverIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "19-甘雨原皮出片",
+      "title": "甘雨",
+      "location": "广东省广州市唐荔园",
+      "gear": [
+        "EOS R5 Mark II",
+        "RF 28-70mm F2 L USM",
+        "Liyadi P150C"
+      ],
+      "coverIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "18-甘雨JK出片",
+      "title": "甘雨JK",
+      "location": "广东省广州市有轨电车猎德大桥南站",
+      "gear": [
+        "EOS R5 Mark II",
+        "RF 28-70mm F2 L USM",
+        "Liyadi P150C"
+      ],
+      "coverIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "22-银狼_导出",
+      "title": "银狼·银狼JK",
+      "location": "广东省广州市中华美食园立体停车场",
+      "gear": [
+        "EOS R5 Mark II",
+        "EOS R1",
+        "RF 28-70mm F2 L USM",
+        "RF7-14mm Fisheye",
+        "INKEE GC150"
+      ],
+      "coverIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "17-明日香_导出",
+      "title": "明日香de三个皮肤",
+      "location": "广东省广州市琶醍地下停车场",
+      "gear": [
+        "EOS R5 Mark II",
+        "RF 28-70mm F2 L USM",
+        "Canon Speedlight EL-1"
+      ],
+      "coverIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "15-小樱_导出",
+      "title": "小樱",
+      "location": "广东省广州市华南植物园",
+      "gear": [
+        "EOS R5 Mark II",
+        "RF 28-70mm F2 L USM",
+        "Canon Speedlight EL-1"
+      ],
+      "coverIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "13-妮可_导出",
+      "title": "妮可JK",
+      "location": "广东省广州市中华美食园立体停车场",
+      "gear": [
+        "EOS R5 Mark II",
+        "RF 28-70mm F2 L USM",
+        "Canon Speedlight EL-1"
+      ],
+      "coverIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "16-托帕",
+      "title": "托帕",
+      "location": "广东省广州市1906科技园扬韬广场",
+      "gear": [
+        "Canon Powershot V1",
+        "Canon Speedlight EL-1"
+      ],
+      "coverIndexes": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}
